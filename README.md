@@ -18,6 +18,7 @@ Soy un desarrollador de software en formación en el **Bootcamp de Programación
 #### Técnico en Plataformas Informáticas (2009)
 
 -
+![Alan Mandriaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMandriaza&show_icons=true&theme=radical)
 
 ## Habilidades Técnicas
 
