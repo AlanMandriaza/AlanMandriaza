@@ -2,7 +2,8 @@
 
 ## Perfil
 
-Soy un desarrollador de software en formación en el **Bootcamp de Programación en 4Geeks Academy**, donde he adquirido habilidades en HTML, CSS, Bootstrap, JS, Jest, React, Flask, SQLalchemy, Python. Estoy enfocado en el aprendizaje constante y la mejora continua, y disfruto trabajar en equipo para encontrar soluciones a los problemas.
+Actualmente estoy en proceso de formación como desarrollador de software en el Bootcamp de Programación en 4Geeks Academy. Aunque no cuento con experiencia laboral previa en el campo, estoy adquiriendo habilidades en HTML, CSS, Bootstrap, JS, Jest, React, Flask, Python, SQLalchemy. Me apasiona aprender constantemente y mejorar mis habilidades técnicas. Estoy dispuesto a asumir nuevos desafíos y estoy entusiasmado por aplicar mis conocimientos en futuros proyectos y colaboraciones.
+
 
 ![Alan Mandriaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMandriaza&show_icons=true&theme=radical)
 
