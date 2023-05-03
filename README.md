@@ -14,7 +14,7 @@ Actualmente estoy en proceso de formación como desarrollador de software en el 
 #### Técnico en Plataformas Informáticas (2009)
 
 ### 4Geeks Academy
-#### Bootcamp de Programación (fecha de inicio - en curso)
+#### Bootcamp de Programación (6 de Frebero 2023- en curso)
 
 - Adquiriendo habilidades en **HTML, CSS, Bootstrap, JS, Jest, React, Flask, Python, SQLalchemy**.
 - Desarrollando proyectos prácticos y trabajando en equipo para resolver problemas de programación.
