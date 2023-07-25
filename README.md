@@ -22,11 +22,12 @@ colaboraciones.
 - Adquiriendo habilidades en **HTML, CSS, Bootstrap, JS, Jest, React, Flask, Python, SQLalchemy**.
 - Desarrollando proyectos prácticos y trabajando en equipo para resolver problemas de programación.
 - Participando en sesiones de retroalimentación y aprendizaje para mejorar mis habilidades.
-  [enlace al certificado](https://www.efset.org/cert/XMCCB7)
+- [enlace al certificado](https://certificate.4geeks.com/d50bbbce64a5f3f333f8b0546da0c2ffe82eb8fa)
+  
 ## Idiomas
 
 - Español - Nativo
-- Inglés - C1 Advanced, certificado EF SET, [enlace al certificado](https://certificate.4geeks.com/d50bbbce64a5f3f333f8b0546da0c2ffe82eb8fa)
+- Inglés - C1 Advanced, certificado EF SET, [enlace al certificado](https://www.efset.org/cert/XMCCB7)
 
 
 ## Habilidades Técnicas
