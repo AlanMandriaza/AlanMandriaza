@@ -9,6 +9,7 @@ colaboraciones.
 
 
 ![Alan Mandriaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMandriaza&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
 
 
 ## Educación
@@ -36,14 +37,12 @@ colaboraciones.
 - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 - React ![React](https://img.icons8.com/color/48/000000/react-native.png)
 - Python ![Python](https://img.icons8.com/color/48/000000/python.png)
-- Flask ![Flask](https://img.icons8.com/officel/48/000000/flask.png)
 - Flask ![Flask](https://img.icons8.com/ios/48/000000/flask.png)
 - SQL ![SQL](https://img.icons8.com/ios/48/000000/sql.png)
 - SQLAlchemy ![SQLAlchemy](https://img.icons8.com/ios/48/000000/database.png)
 - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
-- GitHub ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
-- Scrum ![Scrum](https://img.icons8.com/color/48/000000/scrum.png)
-- REST API ![REST API](https://img.icons8.com/color/48/000000/api-settings.png)
+
+
 
 
 ## Proyectos
