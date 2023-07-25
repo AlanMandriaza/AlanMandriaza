@@ -17,11 +17,11 @@ colaboraciones.
 #### Técnico en Plataformas Informáticas (2009)
 
 ### 4Geeks Academy
-#### Bootcamp de Programación (6 de Frebero 2023- en curso)
+#### Bootcamp de Programación (6 de Frebero 2023- en curso) [Enlace al certificado](https://certificate.4geeks.com/d50bbbce64a5f3f333f8b0546da0c2ffe82eb8fa).
 
 - Adquiriendo habilidades en **HTML, CSS, Bootstrap, JS, Jest, React, Flask, Python, SQLalchemy**.
 - Desarrollando proyectos prácticos y trabajando en equipo para resolver problemas de programación.
-- Participando en sesiones de retroalimentación y aprendizaje para mejorar mis habilidades. [Enlace al certificado](https://certificate.4geeks.com/d50bbbce64a5f3f333f8b0546da0c2ffe82eb8fa).
+- Participando en sesiones de retroalimentación y aprendizaje para mejorar mis habilidades. 
   
 ## Idiomas
 
