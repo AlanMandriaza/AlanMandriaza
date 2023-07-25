@@ -8,7 +8,7 @@ colaboraciones.
 
 
 
-![Alan Mandriaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMandriaza&show_icons=true&theme=radical)
+![Alan Mandriaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMandriaza&show_icons=true&theme=radical)<br>
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMandriaza&layout=compact)
 
 
@@ -16,14 +16,11 @@ colaboraciones.
 ## Educación
 
 ### Universidad Santo Tomás
-#### Técnico en Plataformas Informáticas (2009)
+- Técnico en Plataformas Informáticas (2009).
 
 ### 4Geeks Academy
-#### Bootcamp de Programación (6 de Frebero 2023- en curso) [Enlace al certificado](https://certificate.4geeks.com/d50bbbce64a5f3f333f8b0546da0c2ffe82eb8fa).
+- Bootcamp de Programación (6 de Frebero-Junio 2023) [Enlace al certificado](https://certificate.4geeks.com/d50bbbce64a5f3f333f8b0546da0c2ffe82eb8fa).
 
-- Adquiriendo habilidades en **HTML, CSS, Bootstrap, JS, Jest, React, Flask, Python, SQLalchemy**.
-- Desarrollando proyectos prácticos y trabajando en equipo para resolver problemas de programación.
-- Participando en sesiones de retroalimentación y aprendizaje para mejorar mis habilidades. 
   
 ## Idiomas
 
@@ -32,11 +29,8 @@ colaboraciones.
 
 ## Habilidades Técnicas
 
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- React ![React](https://img.icons8.com/color/48/000000/react-native.png)- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
-- Flask ![Flask](https://img.icons8.com/ios/48/000000/flask.png)- SQL ![SQL](https://img.icons8.com/ios/48/000000/sql.png)
-- SQLAlchemy ![SQLAlchemy](https://img.icons8.com/ios/48/000000/database.png)- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png) - CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png) - Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) - React ![React](https://img.icons8.com/color/48/000000/react-native.png)
+- Python ![Python](https://img.icons8.com/color/48/000000/python.png) - Flask ![Flask](https://img.icons8.com/ios/48/000000/flask.png) - SQL ![SQL](https://img.icons8.com/ios/48/000000/sql.png) - SQLAlchemy ![SQLAlchemy](https://img.icons8.com/ios/48/000000/database.png) - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 
 
