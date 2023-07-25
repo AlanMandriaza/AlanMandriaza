@@ -9,7 +9,8 @@ colaboraciones.
 
 
 ![Alan Mandriaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanMandriaza&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMandriaza&layout=compact)
+
 
 
 ## Educación
