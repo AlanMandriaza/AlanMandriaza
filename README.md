@@ -30,19 +30,20 @@ colaboraciones.
 
 ## Habilidades Técnicas
 
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
-- Flask ![Flask](https://img.icons8.com/officel/48/000000/flask.png)
-- SQL ![SQL](https://img.icons8.com/ios/48/000000/sql.png)
-- SQLAlchemy ![SQLAlchemy](https://img.icons8.com/ios/48/000000/database.png)
-- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
-- GitHub ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
-- Scrum ![Scrum](https://img.icons8.com/color/48/000000/scrum.png)
-- REST API ![REST API](https://img.icons8.com/color/48/000000/api-settings.png)
+- HTML ![HTML](https://img.icons8.com/color/24/000000/html-5.png)
+- CSS ![CSS](https://img.icons8.com/color/24/000000/css3.png)
+- Bootstrap ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)
+- React ![React](https://img.icons8.com/color/24/000000/react-native.png)
+- Python ![Python](https://img.icons8.com/color/24/000000/python.png)
+- Flask ![Flask](https://img.icons8.com/officel/24/000000/flask.png)
+- SQL ![SQL](https://img.icons8.com/ios/24/000000/sql.png)
+- SQLAlchemy ![SQLAlchemy](https://img.icons8.com/ios/24/000000/database.png)
+- Git ![Git](https://img.icons8.com/color/24/000000/git.png)
+- GitHub ![GitHub](https://img.icons8.com/fluent/24/000000/github.png)
+- Scrum ![Scrum](https://img.icons8.com/color/24/000000/scrum.png)
+- REST API ![REST API](https://img.icons8.com/color/24/000000/api-settings.png)
+
 
 
 ## Proyectos
