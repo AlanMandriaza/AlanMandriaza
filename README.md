@@ -52,3 +52,5 @@ colaboraciones.
 - **JS Validation** - Formulario de registro con validación de campos utilizando JavaScript. Asegura que los datos ingresados por el usuario cumplan con los criterios especificados antes de ser enviados. Repositorio: [GitHub](https://github.com/AlanMandriaza/JS-Validation-).
 
 - **Random Card Generator** - Generador de cartas aleatorias utilizando HTML, CSS y JavaScript. Crea una carta con un número y símbolo aleatorio cada vez que se actualiza la página. Repositorio: [GitHub](https://github.com/AlanMandriaza/Random-Card-Generator).
+
+- **Faux Atelier** - Página web de venta de ropa utilizando Flask, React y SQL Alchemy, integrando una API propia para ofrecer datos actualizados en tiempo real utilizando una interfaz responsiva.[GitHub](https://github.com/AlanMandriaza/Proyecto-final)
