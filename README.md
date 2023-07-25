@@ -37,6 +37,7 @@ colaboraciones.
 - React ![React](https://img.icons8.com/color/48/000000/react-native.png)
 - Python ![Python](https://img.icons8.com/color/48/000000/python.png)
 - Flask ![Flask](https://img.icons8.com/officel/48/000000/flask.png)
+- Flask ![Flask](https://img.icons8.com/ios/48/000000/flask.png)
 - SQL ![SQL](https://img.icons8.com/ios/48/000000/sql.png)
 - SQLAlchemy ![SQLAlchemy](https://img.icons8.com/ios/48/000000/database.png)
 - Git ![Git](https://img.icons8.com/color/48/000000/git.png)
