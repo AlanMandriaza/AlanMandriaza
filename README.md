@@ -2,9 +2,7 @@
 
 ## Perfil
 
-Soy un desarrollador de software con formación en el Bootcamp de Programación en 4Geeks Academy. Aunque no cuento con experiencia
-laboral previa en el campo, me apasiona aprender constantemente y mejorar mis habilidades técnicas. Estoy dispuesto a asumir nuevos desafíos y estoy entusiasmado por aplicar mis conocimientos en futuros proyectos y
-colaboraciones.
+Soy un desarrollador de software con formación en el Bootcamp de Programación en 4Geeks Academy. Me apasiona aprender constantemente y mejorar mis habilidades técnicas. Estoy dispuesto a asumir nuevos desafíos y estoy entusiasmado por aplicar mis conocimientos en futuros proyectos y colaboraciones.
 
 
 
